@@ -1,3 +1,5 @@
+[Home](README.md) | [JavaScript](javascript.md) | [TypeScript](typescript.md) | [React](react.md) | [Vue](vue.md) | [Angular](angular.md)
+
 # Vue Resources
 
 ## Links referred to in class
