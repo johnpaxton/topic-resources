@@ -2,6 +2,7 @@
 
 # JavaScript resources
 
+[MDN JavaScript Docs Home](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [JavaScript Clean Code](https://github.com/ryanmcdermott/clean-code-javascript)
 [Computer Science in JavaScript](https://github.com/humanwhocodes/computer-science-in-javascript)
 [JavaScript one-liners](https://1loc.dev/)
