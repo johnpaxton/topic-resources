@@ -3,7 +3,7 @@
 # Vue Resources
 
 ## Links referred to in class
-[Handy Bonus Vue Directives](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity)
+- [Handy Bonus Vue Directives](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity)
 
 ## Links for further study
 
